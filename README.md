@@ -16,6 +16,6 @@ npm run start
 ```
 
 ### Open browser and go to
-http://localhost:3000/
+[http://localhost:3000/](http://localhost:3000/)
 
-http://localhost:3000/hello
+[http://localhost:3000/hello](http://localhost:3000/hello)
