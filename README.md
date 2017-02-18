@@ -10,7 +10,7 @@ yarn install
 npm install
 ```
 
-## Starter
+## Start
 ```bash
 npm run start
 ```
