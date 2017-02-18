@@ -1,6 +1,7 @@
 {
   "name": "hapi-starter-kit",
   "version": "1.0.0",
+  "description": "Starter kit for Hapi",
   "main": "lib/index.js",
   "repository": "git@github.com:azaritech/hapi-starter-kit.git",
   "author": "Nicolas Azari",
