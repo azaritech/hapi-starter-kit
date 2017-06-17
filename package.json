@@ -11,13 +11,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "getconfig": "^3.0.0",
-    "good": "^7.1.0",
+    "getconfig": "^3.1.0",
+    "good": "^7.2.0",
     "good-console": "^6.4.0",
-    "handlebars": "^4.0.6",
-    "hapi": "^16.1.0",
-    "inert": "^4.1.0",
-    "nes": "^6.4.0",
+    "handlebars": "^4.0.10",
+    "hapi": "^16.4.3",
+    "inert": "^4.2.0",
     "vision": "^4.1.1"
   },
   "devDependencies": {}
